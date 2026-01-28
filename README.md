@@ -4,7 +4,7 @@ O objetivo do projeto é investigar como museus e outros patrimônios culturais 
 
 - **Que porcentagem dos nossos principais museus está em áreas de alto risco climático**
 - **Que memórias e identidades regionais podem ser perdidas se essas instituições forem afetadas?**
-- **Os acervos de maior risco são os mesmos em todo o Brasil, ou cada região enfrenta ameaças específicas ao seu patrimônio único?**
+- **Os acervos de maior risco são os mesmos em todo o Brasil, ou cada região enfrenta ameaças específicas ao seu patrimônio e memória?**
 
 ## Climate Risk Assessment for the Brazilian Cultural Heritage  
 
